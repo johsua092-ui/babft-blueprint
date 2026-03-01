@@ -1,5 +1,4 @@
 return {
-    {Name = "WoodBlock", CFrame = CFrame.new(0, 2, 0) * CFrame.Angles(0, 0, 0), Color = Color3.fromRGB(163, 102, 34), Material = "Wood"},
-    {Name = "WoodBlock", CFrame = CFrame.new(2, 2, 0) * CFrame.Angles(0, 0, 0), Color = Color3.fromRGB(163, 102, 34), Material = "Wood"},
-    {Name = "WoodBlock", CFrame = CFrame.new(-2, 2, 0) * CFrame.Angles(0, 0, 0), Color = Color3.fromRGB(163, 102, 34), Material = "Wood"}
+    {Name = "WoodBlock", CFrame = CFrame.new(0, 5, 0), Color = Color3.fromRGB(163, 102, 34), Material = "Wood"},
+    {Name = "WoodBlock", CFrame = CFrame.new(0, 10, 0), Color = Color3.fromRGB(163, 102, 34), Material = "Wood"}
 }
